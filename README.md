@@ -1,2 +1,3 @@
-# shannonjensen.github.io
-# shannonjensen.github.io
+# Homepage
+
+Scaffolding for my coding homepage @ www.shannoncodes.com
